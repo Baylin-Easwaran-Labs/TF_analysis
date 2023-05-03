@@ -3,7 +3,7 @@ This folder contains scripts to generate the transcription factors and K-means c
 TCGA CRC methylation and expression data is downloaded using the commands in the script itself. 
 Additional data needed for running the script including CIMP labels, autosomal probes, ENCODE cCRE probes, 
 and normalized expression data for the combined CRC datasets (TCGA + GSE39582) for clustering analysis are provided 
-as supplementary data to the manuscript.
+in the "data" directory.
 
 Below are two major analysis pipelines utilized in our study.
 
